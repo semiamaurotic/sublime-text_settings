@@ -1,0 +1,35 @@
+{
+	"added_words":
+	[
+		"regex"
+	],
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"font_face": "Roboto Mono",
+	"font_options":
+	[
+		"gray_antialias"
+	],
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"LaTeXTools",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"overlay_scroll_bars": "enabled",
+	"theme": "Cobalt2.sublime-theme",
+	"wide_caret": true,
+	"word_wrap": false
+}

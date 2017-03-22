@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Advanced CSV",
+		"Anaconda",
+		"Color Highlighter",
+		"ColorSchemeSelector",
+		"Compare Side-By-Side",
+		"GitGutter",
+		"Github Tools",
+		"Indent XML",
+		"Insert Nums",
+		"Keymaps",
+		"LaTeXTools",
+		"MarkdownEditing",
+		"Package Control",
+		"PackageDev",
+		"PackageResourceViewer",
+		"Pretty JSON",
+		"ScopeHunter",
+		"SideBarEnhancements",
+		"Sync View Scroll",
+		"Theme - Cobalt2"
+	],
+	"repositories":
+	[
+	],
+	"unmanaged_packages_ignore":
+	[
+	]
+}

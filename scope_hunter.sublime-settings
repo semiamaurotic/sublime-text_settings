@@ -1,0 +1,4 @@
+{ 
+	// Show popup tooltip with info about scope
+    "show_popup": true,
+}
