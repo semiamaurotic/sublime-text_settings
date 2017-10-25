@@ -1,0 +1,13 @@
+[
+    {
+        "caption": "Tools",
+        "id": "tools",
+        "children":
+        [
+            {
+                "id" : "RptCleaner",
+                "command" : "rptcleaner"
+            }
+        ]
+    }
+]
